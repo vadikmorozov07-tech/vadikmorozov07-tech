@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Improving my skills in C and C++
+- 🔭 Improving my skills in C++ and Python
 - 🌱 Learning algorithms and data structures
 - 🐍 Using Python for educational projects and automation
 - 🔧 Working with Git and GitHub
