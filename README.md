@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Junior C++/Python Developer
+  Junior Python/C++ Developer
 </p>
 
 <p align="center">
